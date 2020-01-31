@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://www.dropbox.com/sh/63sgxzlue6nyi52/AAAknZGv_QaBBK3GZcVCUsnIa?dl=0/ClickOnceTrial.application" />
+    <deploymentProvider codebase="https://github.com/ethanedson/ODI-PAS/blob/master/ClickOnceTrial.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
